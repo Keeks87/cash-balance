@@ -1,0 +1,54 @@
+/*
+Filename: App.css
+
+Code: Main styles of the App.js
+*/
+
+/* App styles */
+.App {
+  text-align: center;
+  background-color: rgb(252, 141, 4);
+  height: 100vh;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Buttons {
+background-color: rgb(202, 202, 202);
+width: 100%;
+padding-bottom: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  background-color: #494949;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h3 {
+  color: #494949;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+button{
+  background-color: rgb(202, 202, 202);
+  border-radius: 10px;
+}
